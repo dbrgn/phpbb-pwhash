@@ -1,0 +1,15 @@
+[package]
+name = "phpbb-pwhash"
+version = "0.1.0"
+authors = ["Danilo Bargen <mail@dbrgn.ch>"]
+documentation = "https://docs.rs/phpbb-pwhash"
+description = "A re-implementation of the `phpbb_check_hash` function (from phpBB 3) in Rust."
+readme = "README.md"
+repository = "https://github.com/dbrgn/phpbb-pwhash/"
+license = "MIT OR Apache-2.0"
+keywords = ["phpbb", "hashing", "pwhash"]
+edition = "2018"
+
+[dependencies]
+base64 = "0.12"
+md5 = "0.7"
