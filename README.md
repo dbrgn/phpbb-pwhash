@@ -25,6 +25,6 @@ be dual licensed as above, without any additional terms or conditions.
 
 <!-- Badges -->
 [workflow]: https://github.com/dbrgn/phpbb-pwhash/actions?query=workflow%3ACI
-[workflow-badge]: https://img.shields.io/github/workflow/status/dbrgn/phpbb-pwhash/CI/master
+[workflow-badge]: https://img.shields.io/github/workflow/status/dbrgn/phpbb-pwhash/CI/main
 [crates-io]: https://crates.io/crates/phpbb-pwhash
 [crates-io-badge]: https://img.shields.io/crates/v/phpbb-pwhash.svg?maxAge=3600
