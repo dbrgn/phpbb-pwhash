@@ -11,5 +11,5 @@ keywords = ["phpbb", "hashing", "pwhash"]
 edition = "2018"
 
 [dependencies]
-base64 = "0.12"
+base64 = "0.13"
 md5 = "0.7"
